@@ -1,4 +1,4 @@
-# Projeto_Rede_Social
+# Projeto_Login
 Este é um projeto de estudo para aprender a desenvolver em HTML e CSS. Site produzido como resultado das aulas realizadas no canal ***[Curso em Video](https://www.youtube.com/@CursoemVideo)*** para ver o resultado clique ***[Aqui](https://lucas-brasil-silva.github.io/Projeto_Login/)***.
 
 ### Licença
